@@ -5,6 +5,7 @@
 #include "stdafx.h"
 #include "Stock Trade system.h"
 #include "Stock Trade systemDlg.h"
+#include"Mainpage.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW

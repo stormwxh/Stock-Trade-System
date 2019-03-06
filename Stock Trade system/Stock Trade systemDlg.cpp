@@ -6,6 +6,7 @@
 #include "Stock Trade system.h"
 #include "Stock Trade systemDlg.h"
 #include "afxdialogex.h"
+#include"Mainpage.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW
@@ -211,6 +212,10 @@ void CStockTradesystemDlg::OnBnClickedOk()
 	}
 	else
 	{
+		CStockTradesystemDlg::OnCancel();//退出文本框
+		Mainpage dlg;
+		dlg.DoModal();//显示另一个文本框
+
 
 		CDialogEx::OnOK();
 	}
