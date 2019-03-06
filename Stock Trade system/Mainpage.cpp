@@ -16,6 +16,7 @@ Mainpage::Mainpage(CWnd* pParent /*=nullptr*/)
 {
 
 }
+////test
 
 Mainpage::~Mainpage()
 {
