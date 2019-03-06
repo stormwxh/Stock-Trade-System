@@ -1,5 +1,5 @@
 // Function1.cpp : implementation file
-//fgdgfdg
+//fgdgfdgmnjh
 
 #include "stdafx.h"
 #include "Stock Trade system.h"
