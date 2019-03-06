@@ -2,7 +2,7 @@
 
 
 // Function1 dialog
-
+//Test FUnction1
 class Function1 : public CDialogEx
 {
 	DECLARE_DYNAMIC(Function1)
