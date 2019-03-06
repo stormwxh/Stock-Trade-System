@@ -31,4 +31,12 @@ protected:
 	afx_msg void OnPaint();
 	afx_msg HCURSOR OnQueryDragIcon();
 	DECLARE_MESSAGE_MAP()
+public:
+	afx_msg void OnStnClickedLoginTitle();
+	afx_msg void OnEnChangeLoginEditUsernam();
+	afx_msg void OnBnClickedOk();
+	CString m_user;
+	CString m_password;
+	afx_msg void OnEnChangeLoginEditUsername();
+	afx_msg void OnBnClickedCancel();
 };
