@@ -8,7 +8,7 @@
 #include "Function1.h"
 
 // Mainpage dialog
-
+//kk
 IMPLEMENT_DYNAMIC(Mainpage, CDialogEx)
 
 Mainpage::Mainpage(CWnd* pParent /*=nullptr*/)

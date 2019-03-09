@@ -7,7 +7,7 @@
 #include "afxdialogex.h"
 
 
-// Function1 dialog
+// Function1 dialog111111111111111111111
 
 IMPLEMENT_DYNAMIC(Function1, CDialogEx)
 
